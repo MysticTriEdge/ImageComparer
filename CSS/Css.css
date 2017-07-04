@@ -1,0 +1,41 @@
+#h1{
+    text-align: center;
+}
+
+
+.noOverlay {
+    width: 900px;
+    height: 800px;
+    margin-right: 20px;
+}
+    
+#leftimgfile {margin-right: 670px;}
+
+#Overlaycontrols{ 
+    margin-top: 20px; 
+    vertical-align:middle;
+position: absolute;
+    top: 850;
+    left: 340px;
+}
+
+#rangeInput{ vertical-align: bottom; float: left}
+
+#textInput{
+    width: 25px;
+    vertical-align:middle;
+}
+#lbl{vertical-align:middle; }
+
+input[type=range] {vertical-align:middle;}
+
+body { background-color: darkgrey;}
+
+.Overlay {
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    width: 900px;
+    height: 800px;
+    
+}
